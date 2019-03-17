@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## AndroidDialer
 google dialer for Android N
 
@@ -25,3 +26,9 @@ cnblog:[http://www.cnblogs.com/lance2016/](http://www.cnblogs.com/lance2016/p/61
 If you think this article useful Nepal , please pay attention to me<br />
 Your support is my motivation, I will continue to strive to do better
 
+=======
+# AndroidDialer
+ dialer
+ 
+under construction ...
+>>>>>>> 36642b4579587fc809e52ecc575562701cbb974e
